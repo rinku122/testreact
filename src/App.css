@@ -1,0 +1,22 @@
+
+
+.heading{
+  font-size: small;
+  color:rgb(2, 133, 133);
+}
+
+.bgColor{
+  background-color: rgb(33, 109, 155);
+  color: white;
+  font-size:small;
+}
+
+  table, th, td{
+  border: 1px solid rgb(67, 125, 169);
+  border-collapse: collapse;
+  background-color: #ecffff;
+  font-size:12px;
+}
+
+
+
